@@ -1,0 +1,9 @@
+{
+    "azureFunctions.projectSubpath": "Excel-custom-functions/AzureFunction/AzureFunctionProject",
+    "azureFunctions.deploySubpath": "Excel-custom-functions/AzureFunction/AzureFunctionProject",
+    "azureFunctions.postDeployTask": "npm install (functions)",
+    "azureFunctions.projectLanguage": "JavaScript",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "npm prune (functions)"
+}
